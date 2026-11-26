@@ -359,6 +359,7 @@ A lightweight, online service for when you don’t have the time, resources, or 
  - [Root-me](https://www.root-me.org/) - CTF training platform.
  - [ROP Emporium](https://ropemporium.com/) - Return-oriented programming challenges, with small binaries for several architectures.
  - [TryHackMe](https://tryhackme.com/) - Guided security rooms with an attack machine that runs in your browser.
+ - [TryHackThisBitch](https://tryhackthisbitch.com/) - Free (currently in beta) browser-based ethical-hacking practice platform with 21 challenges, 21 lessons, and daily puzzles across five difficulty tiers.
  - [VibloCTF](https://ctf.viblo.asia/landing) - CTF training platform.
  - [VulnHub](https://www.vulnhub.com/) - VM-based pentesting platform.
  - [W3Challs](https://w3challs.com/) - Hacking/CTF platform.
